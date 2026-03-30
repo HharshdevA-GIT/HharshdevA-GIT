@@ -35,8 +35,6 @@
 
 ## 📊 GitHub Analytics  
 
-## 📊 GitHub Analytics  
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=HharshdevA-GIT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
   <img height="165" src="https://streak-stats.demolab.com?user=HharshdevA-GIT&theme=tokyonight&hide_border=true&background=00000000" />
