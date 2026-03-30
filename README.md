@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Harsh Pandey, a software developer. with 0-1 years of experience.<br>I’m passionate about coding and problem-solving. I am currently preparing for placements and enhancing my skills in data structures and algorithms. <br>I also enjoy learning web development and building real-world projects.<br><br>Skills: C++, Java, Basic Python, HTML, CSS, JavaScript<br>Learning: Advanced DSA & Backend Development<br>Goal: Become a skilled software engineer and build impactful applications.<br><br>I am always learning, building, and growing.<br> <br><br><br>
+Hi, I'm Harsh Pandey, a software developer. with 0-1 years of experience.<br>I’m passionate about coding and problem-solving. I am currently preparing for placements and enhancing my skills in data structures and algorithms.I also enjoy learning web development and building real-world projects.<br><br>Skills: C++, Java, Basic Python, HTML, CSS, JavaScript<br>Learning: Advanced DSA & Backend Development<br>Goal: Become a skilled software engineer and build impactful applications.<br><br>I am always learning, building, and growing.<br> <br><br><br>
 
 
 ## 🌐 Socials:
