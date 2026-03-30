@@ -1,18 +1,84 @@
-# 💫 About Me:
-Hi, I'm Harsh Pandey, a software developer. with 0-1 years of experience.<br>I’m passionate about coding and problem-solving. I am currently preparing for placements and enhancing my skills in data structures and algorithms.I also enjoy learning web development and building real-world projects.<br><br>Skills: C++, Java, Basic Python, HTML, CSS, JavaScript<br>Learning: Advanced DSA & Backend Development<br>Goal: Become a skilled software engineer and build impactful applications.<br><br>I am always learning, building, and growing.<br> <br><br><br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hharsh.pande/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-pandey-812048310/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/HarshPa23344562) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Mirdulpandey3234@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HharshdevA-GIT&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HharshdevA-GIT&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HharshdevA-GIT&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Harsh;Software+Developer;DSA+%7C+Web+Development;Always+Learning+%F0%9F%94%A5" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HharshdevA-GIT&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👋 Hi, I'm Harsh  
+💻 Software Developer | 🎓 B.Tech Student  
+
+🚀 Passionate about coding, problem-solving, and building real-world applications  
+🔥 Always learning, coding, and growing  
+
+---
+
+## 🌱 Currently Learning  
+- Data Structures & Algorithms  
+- Web Development  
+- Backend Basics  
+
+---
+
+## 🛠️ Tech Stack  
+
+<p>
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HharshdevA-GIT&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=HharshdevA-GIT&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Top Languages  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HharshdevA-GIT&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Projects (Add your best ones here)
+- 🔹 Project 1 - (Add link)  
+- 🔹 Project 2 - (Add link)  
+- 🔹 Project 3 - (Add link)  
+
+---
+
+## 🎯 Goals  
+- Crack top tech interviews 💼  
+- Build impactful projects 🌍  
+- Become a skilled Software Engineer 👨‍💻  
+
+---
+
+## 🤝 Connect With Me  
+
+<p>
+  <a href="https://www.linkedin.com/in/harsh-pandey-812048310/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:mirdulpandey3234@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+⭐ *"Consistency is the key to success."*
