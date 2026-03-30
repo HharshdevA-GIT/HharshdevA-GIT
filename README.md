@@ -35,7 +35,7 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HharshdevA-GIT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img width="400%" src="https://github-readme-stats.vercel.app/api?username=HharshdevA-GIT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img width="48%" src="https://streak-stats.demolab.com?user=HharshdevA-GIT&theme=tokyonight&hide_border=true" />
 </p>
 
