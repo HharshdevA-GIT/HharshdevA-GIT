@@ -5,7 +5,7 @@
 
 ---
 
-# 👋 Hi, I'm Harsh  
+# 👋 Hi, I'm Harsh Pandey  
 💻 Software Developer | 🎓 B.Tech Student  
 
 🚀 Passionate about coding, problem-solving, and building real-world applications  
