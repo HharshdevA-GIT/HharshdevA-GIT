@@ -31,14 +31,17 @@
 </p>
 
 ---
-
-## 📊 GitHub Analytics  
+  
 
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HharshdevA-GIT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img width="48%" src="https://streak-stats.demolab.com?user=HharshdevA-GIT&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hharshdeva-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=hharshdeva-git&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hharshdeva-git&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
