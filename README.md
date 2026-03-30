@@ -1,38 +1,23 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Harsh;Software+Developer;DSA+%7C+Web+Development;Always+Learning+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0FF7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Harsh+%F0%9F%91%8B;Software+Developer;DSA+%7C+Web+Development;Always+Learning+%F0%9F%94%A5" />
 </p>
 
 ---
 
-# 👋 Hi, I'm Harsh  
+# 👋 Hi, I'm Harsh Pandey
 💻 Software Developer | 🎓 B.Tech Student  
 
-🚀 Passionate about coding, problem-solving, and building real-world applications  
-🔥 Always learning, coding, and growing  
+🚀 Passionate about coding and problem-solving  
+🌱 Currently learning Data Structures & Algorithms, Web Development & Backend Basics  
+🔥 Focused on building real-world projects  
 
 ---
 
-## 🌱 Currently Learning  
-- Data Structures & Algorithms  
-- Web Development  
-- Backend Basics  
+## 🧠 Skills  
 
----
-
-## 🛠️ Tech Stack  
-
-<p>
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap" />
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,bootstrap,git,github,netlify" />
 </p>
 
 ---
@@ -40,35 +25,45 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HharshdevA-GIT&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=HharshdevA-GIT&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HharshdevA-GIT&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=HharshdevA-GIT&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Top Languages  
+## 🚀 Projects  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HharshdevA-GIT&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 🔹 Portfolio Website  
+A personal portfolio website to showcase my skills and projects  
+🔗 Live: ADD_LINK  
+🔗 Code: ADD_GITHUB_LINK  
 
-## 🚀 Projects (Add your best ones here)
-- 🔹 Project 1 - (Add link)  
-- 🔹 Project 2 - (Add link)  
-- 🔹 Project 3 - (Add link)  
+---
+
+### 🔹 To-Do List App  
+A simple task management app with add/delete functionality  
+🔗 Live: ADD_LINK  
+🔗 Code: ADD_GITHUB_LINK  
+
+---
+
+### 🔹 Calculator App  
+A basic calculator for performing arithmetic operations  
+🔗 Live: ADD_LINK  
+🔗 Code: ADD_GITHUB_LINK  
 
 ---
 
 ## 🎯 Goals  
-- Crack top tech interviews 💼  
-- Build impactful projects 🌍  
-- Become a skilled Software Engineer 👨‍💻  
+- Crack top tech interviews  
+- Build impactful projects  
+- Become a skilled Software Engineer  
 
 ---
 
 ## 🤝 Connect With Me  
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/harsh-pandey-812048310/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -79,4 +74,4 @@
 
 ---
 
-⭐ *"Consistency is the key to success."*
+⭐ <b>Consistency is the key to success.</b>
