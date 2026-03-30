@@ -51,7 +51,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HharshdevA-GIT&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
----
 
 ## 🚀 Projects (Add your best ones here)
 - 🔹 Project 1 - (Add link)  
