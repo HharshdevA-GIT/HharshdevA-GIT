@@ -40,8 +40,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=HharshdevA-GIT&show_icons=true&theme=tokyonight" />
-  <img width="100%" src="https://streak-stats.demolab.com?user=HharshdevA-GIT&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HharshdevA-GIT&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=HharshdevA-GIT&theme=tokyonight" />
 </p>
 
 ---
@@ -49,9 +49,8 @@
 ## 📈 Top Languages  
 
 <p align="center">
-  <img width="300%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HharshdevA-GIT&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HharshdevA-GIT&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 🚀 Projects (Add your best ones here)
