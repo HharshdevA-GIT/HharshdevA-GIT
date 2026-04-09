@@ -81,7 +81,7 @@ A responsive calculator for performing arithmetic operations.
 ## 🏆 Achievements  
 
 - 🥇 Solved 500+ DSA problems across multiple platforms  
-- 💡 Built 10+ real-world projects  
+- 💡 Built 4+ real-world projects  
 - 🌟 Active contributor to open-source repositories  
 
 ---
